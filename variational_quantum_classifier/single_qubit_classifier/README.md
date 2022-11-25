@@ -21,7 +21,7 @@ Using 1 qubuts, 3 layer re-upload Ansatz.
 ## Baseline results achieved by Hardware-efficient ansatz
 * Quantum Classfier
   ```shell
-  cd variational_quantum_classifier
+  cd variational_quantum_classifier/single_qubit_classifier
   python main.py    # train
   ```
 ---
